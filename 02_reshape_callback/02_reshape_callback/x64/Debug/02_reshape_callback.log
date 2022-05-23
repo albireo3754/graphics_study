@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\starp\source\repos\ComputerGraphics\02_reshape_callback\02_reshape_callback\main.cpp(62,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  02_reshape_callback.vcxproj -> C:\Users\starp\source\repos\ComputerGraphics\02_reshape_callback\x64\Debug\02_reshape_callback.exe
